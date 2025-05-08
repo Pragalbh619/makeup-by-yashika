@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Flawless Beauty, Every Day",
+    "paragraph": "Professional makeup for every occasion. Look radiant, confident, and beautiful effortlessly."
+  },
+  "About": {
+    "paragraph": "Makeup enhances natural beauty, boosts confidence, and allows creative self-expression. The right products highlight features, giving a flawless look for any occasion.",
+    "Why": [
+      "Enhances natural beauty",
+      "Long-lasting flawless finish",
+      "Boosts confidence",
+      "Suitable for all skin types"
+    ],
+    "Why2": [
+      "Improves skin appearance",
+      "Professional polished look",
+      "Perfect for any occasion",
+      "Express your unique style"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Bridal Glam",
+      "largeImage": "img/portfolio/01-large.jpeg",
+      "smallImage": "img/portfolio/01-small.jpeg"
+    },
+    {
+      "title": "Party Makeup",
+      "largeImage": "img/portfolio/02-large.jpeg",
+      "smallImage": "img/portfolio/02-small.jpeg"
+    },
+    {
+      "title": "Engagement Look",
+      "largeImage": "img/portfolio/03-large.jpeg",
+      "smallImage": "img/portfolio/03-small.jpeg"
+    },
+    {
+      "title": "Traditional Beauty",
+      "largeImage": "img/portfolio/04-large.jpeg",
+      "smallImage": "img/portfolio/04-small.jpeg"
+    },
+    {
+      "title": "Cocktail Makeup",
+      "largeImage": "img/portfolio/05-large.jpeg",
+      "smallImage": "img/portfolio/05-small.jpeg"
+    },
+    {
+      "title": "Subtle Elegance",
+      "largeImage": "img/portfolio/06-large.jpeg",
+      "smallImage": "img/portfolio/06-small.jpeg"
+    },
+    {
+      "title": "Glamorous Look",
+      "largeImage": "img/portfolio/07-large.jpeg",
+      "smallImage": "img/portfolio/07-small.jpeg"
+    },
+    {
+      "title": "Festive Makeup",
+      "largeImage": "img/portfolio/08-large.jpeg",
+      "smallImage": "img/portfolio/08-small.jpeg"
+    },
+    {
+      "title": "Photoshoot Ready",
+      "largeImage": "img/portfolio/09-large.jpeg",
+      "smallImage": "img/portfolio/09-small.jpeg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-magic",
+      "name": "Bridal Makeup",
+      "text": "Enhance your bridal glow with our professional makeup, ensuring a flawless and radiant look for your special day."
+    },
+    {
+      "icon": "fa fa-cut",
+      "name": "Hair Styling",
+      "text": "Get the perfect hairstyle to complement your makeup, whether it's a classic updo, waves, or a trendy style."
+    },
+    {
+      "icon": "fa fa-paint-brush",
+      "name": "Party Makeup",
+      "text": "Stand out at any event with our glamorous party makeup, designed to make you look stunning all night long."
+    },
+    {
+      "icon": "fa fa-magic",
+      "name": "HD & Airbrush Makeup",
+      "text": "Achieve a flawless, camera-ready look with our HD and airbrush makeup techniques for a seamless finish."
+    },
+    {
+      "icon": "fa fa-heart",
+      "name": "Skincare & Prepping",
+      "text": "Prepare your skin with our skincare treatments to ensure a smooth and long-lasting makeup application."
+    },
+    {
+      "icon": "fa fa-star",
+      "name": "Makeup Consultation",
+      "text": "Get expert advice on products, techniques, and personalized makeup looks tailored to your style and needs."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"The bridal makeup was absolutely perfect! It lasted the entire wedding without a touch-up. Highly recommended!\"",
+      "name": "Priya Sharma"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"I booked them for my sister’s wedding, and the results were magical! The makeup looked so natural and elegant.\"",
+      "name": "Ananya Verma"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"The airbrush makeup was flawless and lasted all night! I felt so confident at my reception.\"",
+      "name": "Riya Patel"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"I loved my party makeup! The team understood exactly what I wanted and gave me a stunning look.\"",
+      "name": "Meera Nair"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"The best makeup experience ever! My bridal look was dreamy, and everyone complimented me on it.\"",
+      "name": "Neha Joshi"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"I was amazed at how natural yet glamorous my makeup looked. Perfect for any occasion!\"",
+      "name": "Sneha Iyer"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Pooja",
+      "job": "Hair & Makeup"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Arti",
+      "job": "Advance Hair & Makeup"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Neha",
+      "job": "Hair Artist"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Vinita",
+      "job": "Beauty Services & Makeup"
+    }
+  ],
+  "Contact": {
+    "address": "Rdso colony, Manak nagar, Lucknow",
+    "phone": "+91 7275366156",
+    "email": "Yashikasrivatava8@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-magic", 
+      "title": "Flawless Finish",
+      "text": "Achieve a smooth, radiant look with high-quality makeup products designed for all skin types."
+    },
+    {
+      "icon": "fa fa-tint",  
+      "title": "Vibrant Shades",
+      "text": "A wide range of colors to match every mood, occasion, and skin tone."
+    },
+    {
+      "icon": "fa fa-users",
+      "title": "Expert Recommendations",
+      "text": "Get beauty tips and product suggestions from professional makeup artists."
+    },
+    {
+      "icon": "fa fa-star",
+      "title": "Long-Lasting Wear",
+      "text": "Enjoy smudge-proof, waterproof, and all-day wear makeup for a perfect look anytime."
+    }
+  ]
+}

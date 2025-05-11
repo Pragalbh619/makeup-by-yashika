@@ -131,22 +131,22 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
+      "img": "img/team/02.jpeg",
       "name": "Pooja",
       "job": "Hair & Makeup"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/01.jpeg",
       "name": "Arti",
-      "job": "Advance Hair & Makeup"
+      "job": "Advance Hair Stylist"
     },
     {
-      "img": "img/team/03.jpg",
+      "img": "img/team/04.jpg",
       "name": "Neha",
       "job": "Hair Artist"
     },
     {
-      "img": "img/team/04.jpg",
+      "img": "img/team/03.jpeg",
       "name": "Vinita",
       "job": "Beauty Services & Makeup"
     }
